@@ -1,4 +1,4 @@
-Simple Contacts Webpage
+Simple Contact Webpage
 
 Source: [Free One Page Responsive Portifolio](http://www.mrova.com/free-one-page-responsive-html-resume-template/)
 
