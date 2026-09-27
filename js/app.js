@@ -173,6 +173,12 @@ const I18N = {
       title: "Research Projects",
       items: [
         {
+          period: "2026 — Present",
+          title: "AI-Driven Software Evolution",
+          role: "Collaborator",
+          desc: "Investigates how Large Language Models can make software evolution — refactoring analysis, risk identification, and change decision-making — safer and more reliable, combining automated methods with empirical evidence from controlled experiments, surveys, and interviews. Collaboration between Zhejiang University, UFCG and Shahrekord University.",
+        },
+        {
           period: "2017 — 2018",
           title: "IoT Infrastructure for Identifying Situations of Interest",
           role: "Principal Investigator",
@@ -376,6 +382,12 @@ const I18N = {
       title: "Projetos de Pesquisa",
       items: [
         {
+          period: "2026 — Atual",
+          title: "AI-Driven Software Evolution",
+          role: "Colaborador",
+          desc: "Investiga como Grandes Modelos de Linguagem podem tornar a evolução de software — análise de refatorações, identificação de riscos e apoio à decisão em mudanças — mais segura e confiável, combinando métodos automatizados com evidências empíricas de experimentos controlados, surveys e entrevistas. Colaboração entre Universidade de Zhejiang, UFCG e Universidade de Shahrekord.",
+        },
+        {
           period: "2017 — 2018",
           title: "Infraestrutura para Identificação de Situações de Interesse na Internet das Coisas",
           role: "Coordenador",
@@ -578,6 +590,12 @@ const I18N = {
     projects: {
       title: "科研项目",
       items: [
+        {
+          period: "2026 — 至今",
+          title: "AI-Driven Software Evolution（AI 驱动的软件演化）",
+          role: "合作者",
+          desc: "研究大语言模型如何使软件演化——重构分析、风险识别与变更决策支持——更加安全可靠，结合自动化方法与受控实验、问卷调查及访谈等实证证据。浙江大学、UFCG 与沙赫雷库尔德大学合作项目。",
+        },
         {
           period: "2017 — 2018",
           title: "物联网中识别关注情境的基础设施",
