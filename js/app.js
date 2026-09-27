@@ -26,7 +26,7 @@ const I18N = {
         { num: "11+", label: "Teaching experience (Years)" },
         { num: "20+", label: "Professional experience (Years)" },
         { num: "4", label: "Languages" },
-        { num: "5", label: "Publications" },
+        { num: "6", label: "Publications" },
       ],
     },
     experience: {
@@ -189,6 +189,7 @@ const I18N = {
     publications: {
       title: "Publications",
       items: [
+        { authors: "NETO, C. B. L.; XU, H.; OLIVEIRA, G. H. M.; ALBUQUERQUE, D.; GHEYI, R.; PERKUSICH, M.; DANTAS FILHO, E.", title: "All That Glitters is Not Gold: Vulnerability-Driven Repairing in ChatGPT-Generated C Source Code", venue: "Workshop on Intelligent Software Engineering (ISE), CBSoft 2026 — São Paulo, Brazil" },
         { authors: "FILHO, P. C.; BRASILINO, C.; DUARTE, A.", title: "Ten Years of Research on Fault Management in Grid Computing: A Systematic Mapping Study", venue: "PDCAT 2013 — Taipei" },
         { authors: "NETO, C. B. L.; FILHO, P. B. C.; DUARTE, A. N.", title: "A Systematic Mapping Study on Fault Management in Cloud Computing", venue: "PDCAT 2013 — Taipei" },
         { authors: "SOUSA, J. L. T.; SAMPAIO, L. I. S.; SANTOS, K. P.; LEITE NETO, C. B.", title: "SENSOR OPEN SOURCE DE BAIXO CUSTO PARA MONITORAMENTO SISTEMAS DE CONDICIONAMENTO DE AR", venue: "XI Week of Mathematics and Physics, 2015" },
@@ -228,7 +229,7 @@ const I18N = {
         { num: "11+", label: "Experiência docente (anos)" },
         { num: "20+", label: "Experiência profissional (anos)" },
         { num: "4", label: "Idiomas" },
-        { num: "5", label: "Publicações" },
+        { num: "6", label: "Publicações" },
       ],
     },
     experience: {
@@ -391,6 +392,7 @@ const I18N = {
     publications: {
       title: "Produções",
       items: [
+        { authors: "NETO, C. B. L.; XU, H.; OLIVEIRA, G. H. M.; ALBUQUERQUE, D.; GHEYI, R.; PERKUSICH, M.; DANTAS FILHO, E.", title: "All That Glitters is Not Gold: Vulnerability-Driven Repairing in ChatGPT-Generated C Source Code", venue: "Workshop on Intelligent Software Engineering (ISE), CBSoft 2026 — São Paulo, Brasil" },
         { authors: "FILHO, P. C.; BRASILINO, C.; DUARTE, A.", title: "Ten Years of Research on Fault Management in Grid Computing: A Systematic Mapping Study", venue: "PDCAT 2013 — Taipei" },
         { authors: "NETO, C. B. L.; FILHO, P. B. C.; DUARTE, A. N.", title: "A Systematic Mapping Study on Fault Management in Cloud Computing", venue: "PDCAT 2013 — Taipei" },
         { authors: "SOUSA, J. L. T.; SAMPAIO, L. I. S.; SANTOS, K. P.; LEITE NETO, C. B.", title: "SENSOR OPEN SOURCE DE BAIXO CUSTO PARA MONITORAMENTO SISTEMAS DE CONDICIONAMENTO DE AR", venue: "XI Semana de Matemática e Física, 2015" },
@@ -430,7 +432,7 @@ const I18N = {
         { num: "11+", label: "教学经验（年）" },
         { num: "20+", label: "职业经验（年）" },
         { num: "4", label: "门语言" },
-        { num: "5", label: "篇学术成果" },
+        { num: "6", label: "篇学术成果" },
       ],
     },
     experience: {
@@ -593,6 +595,7 @@ const I18N = {
     publications: {
       title: "学术成果",
       items: [
+        { authors: "NETO, C. B. L.; XU, H.; OLIVEIRA, G. H. M.; ALBUQUERQUE, D.; GHEYI, R.; PERKUSICH, M.; DANTAS FILHO, E.", title: "All That Glitters is Not Gold: Vulnerability-Driven Repairing in ChatGPT-Generated C Source Code", venue: "智能软件工程研讨会（ISE），CBSoft 2026 — 巴西圣保罗" },
         { authors: "FILHO, P. C.; BRASILINO, C.; DUARTE, A.", title: "Ten Years of Research on Fault Management in Grid Computing: A Systematic Mapping Study", venue: "PDCAT 2013 — 台北" },
         { authors: "NETO, C. B. L.; FILHO, P. B. C.; DUARTE, A. N.", title: "A Systematic Mapping Study on Fault Management in Cloud Computing", venue: "PDCAT 2013 — 台北" },
         { authors: "SOUSA, J. L. T.; SAMPAIO, L. I. S.; SANTOS, K. P.; LEITE NETO, C. B.", title: "SENSOR OPEN SOURCE DE BAIXO CUSTO PARA MONITORAMENTO SISTEMAS DE CONDICIONAMENTO DE AR", venue: "第十一届数学与物理周，2015" },
